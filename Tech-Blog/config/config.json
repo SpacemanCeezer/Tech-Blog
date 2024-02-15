@@ -1,0 +1,16 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Naruto237!",
+    "database": "tech_blog_db",
+    "host": "localhost",
+    "dialect": "mysql",
+    "port": 3306
+  },
+  "test": {
+   
+  },
+  "production": {
+    
+  }
+}
